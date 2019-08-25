@@ -116,6 +116,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="Properties\PublishProfiles\lightningtalkapi.PublishSettings" />
+    <None Include="Properties\PublishProfiles\lightningtalkapi - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\lightningtalkapi - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
