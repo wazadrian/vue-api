@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8757e15d-5fd1-4092-a3da-13b5a8300f43/resourceGroups/lightning-talk/providers/Microsoft.Web/sites/lightningtalkapp",
+    "appService.deploySubpath": ""
+}
